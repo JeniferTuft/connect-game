@@ -1,5 +1,5 @@
 # connect-game
-A classic Connect Four made using JavaScript.
+A classic game of Connect Four made using JavaScript.
 
 ### Rules
 Players 1 goes first with red discs, Player 2 follows with yellow discs.
